@@ -1,0 +1,22 @@
+
+h1  {
+    color: green;
+}
+
+h2  {
+    color: blue;
+}
+
+h3   {
+    color: orange;
+}
+
+p   {
+    color: red;
+    width: 300px;
+}
+
+td {
+    width: 400px;
+    height: 300px;
+}
